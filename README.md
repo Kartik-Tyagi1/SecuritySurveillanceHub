@@ -1,5 +1,5 @@
 # Security Surveillance Hub
-This application was created as part of the Advanced C# Tutorial Series created by Gavin Lon on youtube as means to learn about the Observer Design Patter in C#.
+This application was created as part of the Advanced C# Tutorial Series created by Gavin Lon on youtube as means to learn about the Observer Design Pattern in C#.
 
 # Observer Design Pattern
 The observer design patter is like a push notification system. There is a central hub that contains information (known as the provider or the observable) and there are things that subscribe to the central hub (which are known as subscribers or observers) 
